@@ -1,0 +1,91 @@
+LICENSE
+  s_772269fa4421c9::t_67564aacd87e92 1-21
+.env.local.example
+  s_772269fa4421c9::t_d3a064a37fafc0 1-28
+.gitignore
+  s_772269fa4421c9::t_1c74348441effc 1-15
+README.md
+  s_772269fa4421c9::t_5c7dcc3b9539a2 1-146
+next.config.mjs
+  s_772269fa4421c9::t_b29269fdcab002 1-21
+package.json
+  s_772269fa4421c9::t_c74479997b9109 1-26
+pnpm-lock.yaml
+  s_772269fa4421c9::t_065416a223971f 1-1014
+postcss.config.mjs
+  s_772269fa4421c9::t_285e808602e271 1-3
+src/app/api/apideck-mode/route.ts
+  s_772269fa4421c9::t_c4e791def5baef 1-15
+src/app/api/apideck/[...path]/route.ts
+  s_772269fa4421c9::t_3593fd8d92f00e 1-373
+src/app/api/bank-meta/route.ts
+  s_772269fa4421c9::t_8d39d1777ac20f 1-131
+src/app/globals.css
+  s_772269fa4421c9::t_29cc1e687013d9 1-151
+src/app/layout.tsx
+  s_772269fa4421c9::t_f2bb241e2ace70 1-41
+src/app/login/failure/page.tsx
+  s_772269fa4421c9::t_d5ad1c6ba7cd72 1-43
+src/app/login/page.tsx
+  s_772269fa4421c9::t_a69b9ae0e97b71 1-85
+src/app/login/success/page.tsx
+  s_772269fa4421c9::t_b2e2cc722aa0f5 1-19
+src/app/page.tsx
+  s_772269fa4421c9::t_591ebed7381e95 1-217
+src/app/session/[token]/page.tsx
+  s_772269fa4421c9::t_266d0079f12241 1-55
+src/components/AddAccounts.tsx
+  s_772269fa4421c9::t_7a28c4e9f180ed 1-363
+src/components/ApideckModeBadge.tsx
+  s_772269fa4421c9::t_272efc06ee5d8d 1-97
+src/components/Dashboard.tsx
+  s_772269fa4421c9::t_267e7c59caaa26 1-607
+src/components/IntegrationProgress.tsx
+  s_772269fa4421c9::t_10a3a0db71c51e 1-547
+src/components/LaunchedFromBanner.tsx
+  s_772269fa4421c9::t_18814e26eb5077 1-68
+src/components/MacWindow.tsx
+  s_772269fa4421c9::t_0539db6df76bad 1-44
+src/components/MockApiCall.tsx
+  s_772269fa4421c9::t_47855b29e31bab 1-180
+src/components/OperatorConsole.tsx
+  s_772269fa4421c9::t_3b42210f49725e 1-496
+src/components/SessionStatus.tsx
+  s_772269fa4421c9::t_49003982ac2ba6 1-88
+src/components/ThemeToggle.tsx
+  s_772269fa4421c9::t_e4e2155b9bfd1e 1-41
+src/components/VaultMockModal.tsx
+  s_772269fa4421c9::t_6813596a7cc31b 1-221
+src/lib/accountingTheme.ts
+  s_772269fa4421c9::t_5eed6689a3aba8 1-29
+src/lib/apideckServer.ts
+  s_772269fa4421c9::t_fe5adbd40aca16 1-78
+src/lib/launchParams.ts
+  s_772269fa4421c9::t_35202e48af85e6 1-49
+src/lib/mockData.ts
+  s_772269fa4421c9::t_6598ee541197d6 1-568
+src/lib/session.tsx
+  s_772269fa4421c9::t_5d7832415ab44c 1-101
+src/lib/text.ts
+  s_772269fa4421c9::t_323565e9a5a586 1-15
+tailwind.config.ts
+  s_772269fa4421c9::t_deb799da95be17 1-56
+tsconfig.json
+  s_772269fa4421c9::t_8c4a906cef5718 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "50ccba5dc0b1003c0e17218953aa99cf42318c04",
+  "prompts": {},
+  "sessions": {
+    "s_772269fa4421c9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bce5251b-1fce-4b01-b271-cd0bcf446c22",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Gertjan De Wilde <gertjan@apideck.com>"
+    }
+  }
+}
