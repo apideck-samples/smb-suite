@@ -1,0 +1,15 @@
+node_modules
+.next
+out
+.env*
+!.env.local.example
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+.vercel
+
+# Claude Code / agent state — kept out of the repo so per-machine
+# auto-memory, agent caches and session transcripts don't leak.
+.claude/
+.alan/
+CLAUDE.local.md
